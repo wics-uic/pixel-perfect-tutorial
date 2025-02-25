@@ -1,0 +1,12 @@
+.main-container {
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 5rem;
+    margin-left: 5rem;
+}
+
+.landing-left {
+    font-family: "Quicksand", serif;
+}
