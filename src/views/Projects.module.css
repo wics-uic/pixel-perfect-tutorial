@@ -1,0 +1,28 @@
+.main-container {
+    background-color: #7B1546;
+    color: #F0E6EF;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+h1 {
+    padding-left: 3rem;
+}
+
+.project-container {
+    display: flex;
+    gap: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    align-items: center;
+    justify-content: center;
+}
+
+h4 {
+    font-weight: normal;
+}
+
+a:visited, a:active, a:focus a:hover {
+    color: inherit; /* or set to a color you prefer */
+    text-decoration: none; /* Optional, to remove underline if present */
+}

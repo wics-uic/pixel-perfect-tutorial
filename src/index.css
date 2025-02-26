@@ -1,7 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  background-color: #F0E6EF;
   font-family: "Inter", serif;
 }
 
@@ -9,9 +8,6 @@
   :root {
     color: #213547;
     background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
   }
   button {
     background-color: #f9f9f9;
