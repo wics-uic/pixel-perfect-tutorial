@@ -2,15 +2,14 @@ import styles from './ProjectCard.module.css'
 import chat from '../assets/chat.png'
 
 
-export default  function ProjectCard (props) {
+export default function ProjectCard () {
     return (
         <div className={styles['main-container']}>
-            <a href={props.link} style={{textDecoration:'none'}}>
-            <h1 >{props.title}</h1>
+            <a href="example.com" style={{textDecoration:'none'}}>
+            <h1>Sample Project</h1>
             </a>
-            <img src={props.img} width={500} className={styles['image']}/>
-            <h4>{props.desc}
-            </h4>
+            <img src={chat} width={500} className={styles['image']}/>
+            <h4>Sample Project Description</h4>
         </div>
     )
 

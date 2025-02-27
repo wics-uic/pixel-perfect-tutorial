@@ -10,6 +10,7 @@ export default function App() {
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/projects" element={<Projects />} />
+        <Route path="/experience" element={<Projects />} />
       </Routes>
     </BrowserRouter>
   );
