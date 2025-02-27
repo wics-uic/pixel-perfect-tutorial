@@ -6,7 +6,6 @@ function LandingPage() {
     return (
         <div>
             <div className={styles['landing-container']}>
-                <Navbar/>
                 <div className={styles['main-container']}>
                     <div className={styles['landing-left']}>
                        
