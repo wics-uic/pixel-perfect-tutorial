@@ -25,7 +25,7 @@ This document assumes that you are starting from a *blank slate*. Feel free to s
 ## 2. Frontend Installation : Nodejs and npm
 - For Windows users, install [Node.js and npm LTS version](https://nodejs.org/en/download)
 - For Mac users, using Homebrew `brew install node`
-- Confirm installation by running `node -v` and `npm -v`
+- Confirm installation by opening up a terminal (Command Prompt/Terminal) running `node -v` and `npm -v`
 
 ### this is all you need to do BEFORE the workshop but if you are feeling proactive, feel free to do Step 3 as well though we will do this together live!
 
