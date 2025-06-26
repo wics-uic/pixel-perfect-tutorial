@@ -5,6 +5,8 @@
     margin-right: 5rem;
     margin-left: 5rem;
     color: #7B1546;
+    /* background-color: green; */
+   
 }
 
 
@@ -12,13 +14,13 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    height: 100vh;
 }
 
 .landing-left {
   font-family: "Quicksand", serif;
-   
+   /* background-color: yellow; */
 }
-
 
 .main-heading {
     font-size: 5rem;
@@ -33,6 +35,10 @@
     animation: 
       typing 3.5s steps(40, end),
       blink-caret .75s step-end infinite;
+  }
+
+  .landing-right{
+    /* background-color: red; */
   }
   
   /* The typing effect */

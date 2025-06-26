@@ -19,6 +19,5 @@
 }
 
 .nav-item :hover{
-    /* "text-green font-light hover:line-through" */
     text-decoration: line-through;
 }

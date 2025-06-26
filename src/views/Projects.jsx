@@ -25,7 +25,8 @@ export default function Projects () {
         <div className={styles['main-container']} id='projects'>
             <h1>Here are a few apps I've built and tinkered with !</h1>
             <div className={styles['project-container']}>
-            
+              {/* This is a flex box which will hold each of our project cards */}
+              
             </div>
         </div>
     )
