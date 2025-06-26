@@ -27,14 +27,13 @@ This document assumes that you are starting from a *blank slate*. Feel free to s
 - For Mac users, using Homebrew `brew install node`
 - Confirm installation by opening up a terminal (Command Prompt/Terminal) running `node -v` and `npm -v`
 
-### this is all you need to do BEFORE the workshop but if you are feeling proactive, feel free to do Step 3 as well though we will do this together live!
 
 ## 3. Set up React Demo locally
 - IF you have Git and Github set up:
     - Go to your Forked Repository on Github, Click on green **Code** button and copy the URL (using HTTPS or SSH)
     - Open up VS Code and in the home page or under Source Control, click on **Clone a Repository**. Choose a directory to store your project on your local computer. You can also do the same from the *command line* using `git clone REPO_URL`
 - ELSE:
-    - Go to your Forked Repository on Github, Click on green **Code** button and download the zip file.
+    - On the top of this repository/ page, Click on green **Code** button and download the zip file.
     - Extract the zip file and from VSCode click **Open Folder** and open up your Project! 
 - You will now see a local version of all the files/source code from GitHub. 
 - Install all packages by running opening a terminal on VSCode and running `npm install`
